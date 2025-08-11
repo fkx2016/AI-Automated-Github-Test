@@ -1,0 +1,17 @@
+# Global ownership - all files require review from @fkx2016
+* @fkx2016
+
+# Additional specific ownership
+# Workflow files
+.github/workflows/* @fkx2016
+# Configuration files
+*.json @fkx2016
+*.toml @fkx2016
+*.yml @fkx2016
+*.yaml @fkx2016
+# Source code
+/src/ @fkx2016
+# Tests
+/tests/ @fkx2016
+# Documentation
+*.md @fkx2016
